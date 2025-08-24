@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="mailto:vidhyadharshinie475@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/vidhyadharshinie](https://www.linkedin.com/in/vidhya-dharshinie/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Vidhyadharshinie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/Vidhyadharshinie"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/vidhya-dharshinie/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/VidhyaDharshinie"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Vidhya_Dharshinie/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidhyadharshinie&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VidhyaDharshinie&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
@@ -39,11 +39,11 @@
 
 ## 📊 GitHub & LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhyadharshinie&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://leetcode-stats.vercel.app/api?username=Vidhyadharshinie&theme=dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VidhyaDharshinie&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=Vidhya_Dharshinie&theme=dark" height="180px"/>
 </p>
 
 ---
 
 ## 💡 Favorite Quote
-*"Sometimes life hits you in the head with a brick. Don't lose faith."* – Steve Jobs 
+*"Sometimes life hits you in the head with a brick. Don't lose faith."* – Steve Jobs
