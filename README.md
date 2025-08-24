@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=AIML+Student;Machine+Learning+Enthusiast;Java+%7C+Full+Stack+Developer;Exploring+Tech+%26+Creativity;📧+vidhyadharshinie475%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F65CFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Vidhyadharshinie;ML+Enthusiast;Java+%7C+Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
